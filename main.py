@@ -4,8 +4,8 @@ import asyncio
 
 # Session & API Credentials
 SESSION_NAME = "session_name"
-api_id = 3398830  # Replace with your API ID
-api_hash = "0063b792129728048c870745f9425407"  # Replace with your API Hash
+api_id = 1234567  # Replace with your API ID
+api_hash = "74839201563728495012643895720163"  # Replace with your API Hash
 
 # Check if session exists
 if os.path.exists(f"{SESSION_NAME}.session"):
